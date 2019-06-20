@@ -7,10 +7,10 @@
     
 ## Screenshot
 
-demo 效果：
+    demo 效果：
 
-<img src="https://github.com/shiliujiejie/CollectionLayout/blob/master/ScreenShot/IMG_0231.PNG" width = "70%" />
+<img src="https://github.com/shiliujiejie/CollectionLayout/blob/master/ScreenShot/IMG_0231.PNG" width = "50%" heigth = "50%" />
 
-项目中使用效果:
+    项目中使用效果:
 
-<img src="https://github.com/shiliujiejie/CollectionLayout/blob/master/ScreenShot/IMG_0232.PNG" width = "70%" />
+<img src="https://github.com/shiliujiejie/CollectionLayout/blob/master/ScreenShot/IMG_0232.PNG" width = "50%" heigth = "50%" />
